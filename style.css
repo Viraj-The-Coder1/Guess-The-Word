@@ -1,0 +1,30 @@
+body{
+    background:#00ff7381;
+}
+.login_div{
+    background-color: beige;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+#playerQ{
+    color: indigo;
+}
+#playerA{
+    color: limegreen;
+}
+#output{
+    background-color:lightpink;
+    border-radius: 15px;
+    border-top: 5px solid coral;
+    text-align: left;
+    padding-left: 25px;
+}
+#player_1_name{
+    display: inline-block;
+    margin-left: 20px;
+}
+#player_2_name{
+    display: inline-block;
+    margin-left: 20px;
+}
